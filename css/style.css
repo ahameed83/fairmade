@@ -25,6 +25,13 @@ html, body {
 	position: fixed;
 }
 
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+
+
 .h3 {
 	color: white;
 	font-size: 22px;
